@@ -13,8 +13,8 @@ This repository contains a collection of programming and algorithmic problems cu
    git clone https://github.com/your-username/interview-prep.git
 
 
-## **Contributing**
-    Contributions are welcome! Feel free to:
-    Add new problems.
-    Provide optimized solutions.
-    Improve documentation.
+# **Contributing**
+  - **Contributions are welcome! Feel free to:**
+   ** Add new problems.
+   ** Provide optimized solutions.
+    ** Improve documentation.
